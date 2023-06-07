@@ -1,0 +1,33 @@
+.container {
+    width: 200px;
+    height: 300px;
+}
+
+.title {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20pt;
+    padding: 2px;
+}
+
+textarea {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 196px;
+    height: 200px;
+    resize: none;
+    font-family: 宋体;
+    font-size: 12px;
+}
+
+button {
+    margin-left: 50px;
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.12), 0px 3px 1px rgba(0, 0, 0, 0.04);
+    font-size: 16px;
+    background-color: rgb(53, 177, 226);
+    color: white;
+    border: none;
+}
