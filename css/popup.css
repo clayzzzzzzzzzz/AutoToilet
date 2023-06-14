@@ -20,7 +20,7 @@ textarea {
     font-size: 12px;
 }
 
-button {
+.btn {
     margin-right: 10px;
     width: 40%;
     height: 30px;
@@ -31,6 +31,14 @@ button {
     color: white;
     border: none;
     float: right;
+}
+
+.btn1 {
+    transform: scale(1);
+}
+
+.btn1:active {
+    transform: scale(0.97);
 }
 
 .txtsec {
